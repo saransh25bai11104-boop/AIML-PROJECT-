@@ -175,7 +175,7 @@ For each new email, the model outputs:
 ## 👤 Author
 SARANSH JAIN ( 25BAI11104 )  
 AI/ML Capstone Project — VITyarthi Platform  
-Submitted:31/0325
+Submitted:31/03/25
 
 ---
 
